@@ -13,8 +13,8 @@ describe('<IncrementPanel/>',() =>
   });
 
   it('al hacer click, incrementa una unidad', function(){
-      const wrapper=shallow(<Panel />);
-      
+    const spy = jest.fn();
+    const tree =shallow()
     });
     
 
