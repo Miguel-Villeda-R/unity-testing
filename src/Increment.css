@@ -1,0 +1,22 @@
+.add-button:hover
+{
+  background: rgb(122, 62, 136);  
+  
+}
+button
+{
+  color: red;
+  display: block;
+  width: 250px;
+  height: 60px;
+  padding: 25px 0 0 0;
+
+}
+.counter .counter__buttons
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 50px;
+  
+}
